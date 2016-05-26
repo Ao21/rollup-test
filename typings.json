@@ -1,0 +1,7 @@
+{
+  "name": "rollup-test",
+  "dependencies": {},
+  "globalDependencies": {
+    "d3-dsv": "registry:dt/d3-dsv#0.0.0+20160316155526"
+  }
+}
