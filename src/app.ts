@@ -6,7 +6,7 @@ export class test{
 	constructor() {
 		this._data.getData().then((done) => {
 			this._graph.init(done);
+			console.log('hi');
 		})
-			
 	}
 }

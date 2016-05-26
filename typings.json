@@ -1,6 +1,8 @@
 {
   "name": "rollup-test",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160416211519"
+  },
   "globalDependencies": {
     "d3-dsv": "registry:dt/d3-dsv#0.0.0+20160316155526"
   }

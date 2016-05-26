@@ -6,7 +6,8 @@
   "dependencies": {
     "d3": "^4.0.0-alpha.43",
     "d3-selection": "^0.7.3",
-    "dimple": "git+https://github.com/PMSI-AlignAlytics/dimple.git"
+    "dimple": "git+https://github.com/PMSI-AlignAlytics/dimple.git",
+    "lodash": "^4.13.1"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.9.0",
